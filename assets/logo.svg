@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 680 340" role="img" aria-labelledby="bts-logo-title">
+  <title id="bts-logo-title">Behind The Scene — agence événementielle</title>
+  <circle cx="340" cy="105" r="74" fill="#F1EFE8" stroke="#D89B3C" stroke-width="2"/>
+  <path d="M304,55 Q276,105 306,166 Q322,130 316,90 Q313,68 304,55 Z" fill="#1C1B18"/>
+  <path d="M376,55 Q404,105 374,166 Q358,130 364,90 Q367,68 376,55 Z" fill="#1C1B18"/>
+  <line x1="340" y1="28" x2="340" y2="38" stroke="#D89B3C" stroke-width="2.5" stroke-linecap="round"/>
+  <line x1="320" y1="34" x2="327" y2="42" stroke="#D89B3C" stroke-width="2.5" stroke-linecap="round"/>
+  <line x1="360" y1="34" x2="353" y2="42" stroke="#D89B3C" stroke-width="2.5" stroke-linecap="round"/>
+  <circle cx="340" cy="52" r="10" fill="#D89B3C"/>
+  <circle cx="340" cy="52" r="4" fill="#FCDE5A"/>
+  <path d="M328,52 L318,170" stroke="#D89B3C" stroke-width="0.6" opacity="0.35" fill="none"/>
+  <path d="M352,52 L362,170" stroke="#D89B3C" stroke-width="0.6" opacity="0.35" fill="none"/>
+  <line x1="298" y1="170" x2="382" y2="170" stroke="#D89B3C" stroke-width="2" stroke-linecap="round"/>
+  <text x="340" y="245" text-anchor="middle" style="font-size:33px; font-weight:700; letter-spacing:4px; font-family: Georgia, 'Times New Roman', serif;" fill="#1C1B18">BEHIND THE SCENE</text>
+  <line x1="255" y1="262" x2="425" y2="262" stroke="#D89B3C" stroke-width="1"/>
+  <text x="340" y="286" text-anchor="middle" style="font-size:14.5px; font-family: Georgia, serif; letter-spacing:1.5px;" fill="#5F5E5A">CRÉATEURS D'EXPÉRIENCES ÉVÉNEMENTIELLES</text>
+  <text x="340" y="311" text-anchor="middle" style="font-size:12.5px; font-family: Georgia, serif; letter-spacing:2px;" fill="#888780">ABIDJAN — CÔTE D'IVOIRE</text>
+</svg>

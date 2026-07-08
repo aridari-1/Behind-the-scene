@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" role="img" aria-labelledby="bts-mark-title">
+  <title id="bts-mark-title">Behind The Scene — symbole</title>
+  <circle cx="100" cy="100" r="96" fill="#F1EFE8"/>
+  <path d="M62,48 Q30,100 64,164 Q82,124 75,80 Q72,58 62,48 Z" fill="#1C1B18"/>
+  <path d="M138,48 Q170,100 136,164 Q118,124 125,80 Q128,58 138,48 Z" fill="#1C1B18"/>
+  <line x1="100" y1="18" x2="100" y2="29" stroke="#D89B3C" stroke-width="3" stroke-linecap="round"/>
+  <line x1="78" y1="25" x2="86" y2="34" stroke="#D89B3C" stroke-width="3" stroke-linecap="round"/>
+  <line x1="122" y1="25" x2="114" y2="34" stroke="#D89B3C" stroke-width="3" stroke-linecap="round"/>
+  <circle cx="100" cy="44" r="11" fill="#D89B3C"/>
+  <circle cx="100" cy="44" r="4.5" fill="#FCDE5A"/>
+  <line x1="54" y1="168" x2="146" y2="168" stroke="#D89B3C" stroke-width="3" stroke-linecap="round"/>
+</svg>
